@@ -18,7 +18,7 @@
 git clone https://github.com/kenzok8/openwrt-packages package/openwrt-packages
 git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan
 rm -rf ./package/lean/luci-app-zerotier
-git clone https://github.com/maxlicheng/luci-app-unblockmusic ./package/lean/luci-app-unblockmusic
+git clone https://github.com/immortalwrt/luci-app-unblockneteasemusic.git ./package/lean/luci-app-unblockneteasemusic
 rm -rf ./package/lean/luci-theme-argon 
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git /package/lean/luci-theme-argon
 rm -rf ./package/lean/luci-app-zerotier
